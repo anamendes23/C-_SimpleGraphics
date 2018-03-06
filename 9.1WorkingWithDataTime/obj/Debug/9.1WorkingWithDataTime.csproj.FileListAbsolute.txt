@@ -1,0 +1,10 @@
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\9.1WorkingWithDataTime\9.1WorkingWithDataTime\bin\Debug\9.1WorkingWithDataTime.exe.config
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\9.1WorkingWithDataTime\9.1WorkingWithDataTime\bin\Debug\9.1WorkingWithDataTime.exe
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\9.1WorkingWithDataTime\9.1WorkingWithDataTime\bin\Debug\9.1WorkingWithDataTime.pdb
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\9.1WorkingWithDataTime\9.1WorkingWithDataTime\obj\Debug\9.1WorkingWithDataTime.csprojResolveAssemblyReference.cache
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\9.1WorkingWithDataTime\9.1WorkingWithDataTime\obj\Debug\_9._1WorkingWithDataTime.Form1.resources
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\9.1WorkingWithDataTime\9.1WorkingWithDataTime\obj\Debug\_9._1WorkingWithDataTime.Properties.Resources.resources
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\9.1WorkingWithDataTime\9.1WorkingWithDataTime\obj\Debug\9.1WorkingWithDataTime.csproj.GenerateResource.Cache
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\9.1WorkingWithDataTime\9.1WorkingWithDataTime\obj\Debug\9.1WorkingWithDataTime.csproj.CoreCompileInputs.cache
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\9.1WorkingWithDataTime\9.1WorkingWithDataTime\obj\Debug\9.1WorkingWithDataTime.exe
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\9.1WorkingWithDataTime\9.1WorkingWithDataTime\obj\Debug\9.1WorkingWithDataTime.pdb

@@ -1,0 +1,14 @@
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\bin\Debug\10.1AddingSimpleGraphics.exe.config
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\bin\Debug\10.1AddingSimpleGraphics.exe
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\bin\Debug\10.1AddingSimpleGraphics.pdb
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\obj\Debug\_10._1AddingSimpleGraphics.Form1.resources
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\obj\Debug\_10._1AddingSimpleGraphics.Properties.Resources.resources
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\obj\Debug\10.1AddingSimpleGraphics.csproj.GenerateResource.Cache
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\obj\Debug\10.1AddingSimpleGraphics.csproj.CoreCompileInputs.cache
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\obj\Debug\10.1AddingSimpleGraphics.exe
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\obj\Debug\10.1AddingSimpleGraphics.pdb
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\obj\Debug\10.1AddingSimpleGraphics.csprojResolveAssemblyReference.cache
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\bin\Debug\MetroFramework.Design.dll
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\bin\Debug\MetroFramework.dll
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\ana_c\Documents\RTC\2 quarter\CSI 154 Intro to visual c\Class Exemples\10.1AddingSimpleGraphics\10.1AddingSimpleGraphics\obj\Debug\_10._1AddingSimpleGraphics.Tu.resources
